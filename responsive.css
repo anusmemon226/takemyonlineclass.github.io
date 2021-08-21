@@ -1,0 +1,645 @@
+@media only screen and (max-width:1350px){
+    .sec-1-head{
+        font-size: 32px !important;
+        padding: 10px 0px 10px 20px !important;
+        /* border: 1px solid rebeccapurple; */
+    }
+    .sec-1-para{
+        padding: 10px 0px 10px 20px !important;
+    }
+    .sec-1-btn1{
+        margin-left: 20px !important;
+    }
+}
+
+
+
+@media only screen and (max-width:1312px){
+    .sec-2-col2 .sec-2-cards .sec-2-card{
+        width: 250px;
+    }
+    .sec-2-col2 .sec-2-cards .sec-2-card .card-detail h4{
+        font-size: 16px !important;
+    }
+    .sec-2-col3 .sec-2-cont h1{
+        font-size: 35px;
+    }
+}
+
+
+@media only screen and (max-width:1260px){
+    .sec-3-col1-cont h3{
+        font-size: 26px !important;
+    }
+    .sec-3-col1-cont p{
+        font-size: 15px !important;
+    }
+    .sec-3-col1-cont button{
+        font-size: 15px !important;
+    }
+
+
+    .sec-3-col2 .review-card{
+        width: 255px !important;
+        margin: 10px !important;
+    }
+    .sec-3-col2 .review-card .content p{
+        font-size: 15px !important;
+        text-align: center;
+    }
+}
+
+
+
+
+@media only screen and (max-width:1091px){
+    /* .sec-4 .sec-4-row .sec-4-col1{
+        padding: 30px !important;
+    }
+    .sec-4 .sec-4-row .sec-4-col1 .sec-4-head1{
+        position: unset !important;
+        padding: 5px 10PX !important;
+    }
+    .sec-4 .sec-4-row .sec-4-col1 .sec-4-head1 h3{
+        writing-mode: unset !important;
+        text-orientation: unset !important;
+    
+    } */
+}
+@media only screen and (max-width:1199px){
+    .sec-1-row{
+        background: unset !important;
+    }
+    .sec-1-col1{
+        display: flex;
+        flex-direction: column;
+        align-items: center !important;
+        justify-content: center;
+        padding: 70px 0px 60px 0px !important;
+    }
+    .sec-1-head{
+        text-align: center;
+        font-size: 35px !important;
+        padding: 0px 0px 0px 0px !important;
+        /* border: 1px solid rebeccapurple; */
+    }
+    .sec-1-para{
+        text-align: center;
+        text-shadow: 0px 0px 5px white;
+        /* border: 1px solid red; */
+        padding: 0px 0px 0px 0px !important;
+        margin-right: 0px !important;
+    }
+    .btn-sec{
+        text-align: center;
+        /* border: 1px solid red; */
+        margin-right: 0px;
+    }
+    .sec-1-btn1{
+        margin-left: 0px !important;
+    }
+    .sec-1-btn2{
+        margin-left: 5px !important;
+    }
+    .sec-1-col2{
+        padding: 30px 0px 80px 0px !important;
+    }
+
+
+    .sec-2 .sec-2-row .sec-2-col1{
+        margin-bottom: 20px;
+        display: flex;
+        height: auto !important;
+        justify-content: center;
+    }
+    .sec-2 .sec-2-row .sec-2-col1 .sec-2-head1{
+        position: static !important;
+        padding: 10px 10px 10px 10px !important;
+        text-align: center !important;
+        letter-spacing: 0;
+        word-spacing: 0;
+        border-top-right-radius: 0px !important;
+        border-bottom-right-radius: 0px !important;
+    }
+    .sec-2 .sec-2-row .sec-2-col1 .sec-2-head1 h3{
+        writing-mode: initial !important;
+        text-orientation: initial !important;
+        font-size: 28px;
+    }
+
+    .sec-2 .sec-2-row{
+        padding: 50px 0px 0px 0px !important;
+    }
+    .sec-2-col2 .sec-2-cards .sec-2-card{
+        width: 400px;
+    }
+    .sec-2-col2 .sec-2-cards .sec-2-card .card-detail{
+        /* border: 1px solid red; */
+        margin-left: 20px !important;
+    }
+    .sec-2-col2 .sec-2-cards .sec-2-card .card-detail h4{
+        font-size: 19px !important;
+        text-align: center;
+    }
+    .sec-2-col3 .sec-2-cont .content h1{
+        text-align: center !important;
+    }
+    .sec-2-col3 .sec-2-cont .content p{
+        text-align: center !important;
+    }
+    .sec-2-col2 .sec-2-cards .sec-2-card .card-logo{
+        width: 80px !important;
+        height: 80px !important;
+        margin-left: 10px;
+    }
+    .sec-2-col3 .sec-2-cont h1{
+        font-size: 35px;
+    }
+
+
+    .sec-2-col3{
+        padding: 10px 40px;
+    }
+    .sec-2-col3 .sec-2-cont{
+        margin: 120px 0px 120px 0px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center !important;
+    }
+    .sec-2-col3 .sec-2-cont .content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 20px 0px;
+    }
+    .sec-2-col3 .sec-2-cont button{
+        width: 140px;
+        font-size: 20px !important;
+        display: block !important;
+    }
+
+
+    .sec-3 .sec-3-row{
+        flex-direction: column-reverse;
+        /* border: 1px solid red; */
+        padding: 10px 0px 0px 0px;
+    }
+    .sec-3-col1{
+        display: unset !important;
+    }
+    .sec-3 .sec-3-row .sec-3-col3 h3{
+        border-top-left-radius: 0px !important;
+        border-bottom-left-radius: 0px !important;
+    }
+    .sec-3-col2{
+        display: unset !important;
+    }
+    .sec-3-col1-cont{
+        /* border: 1px solid red; */
+        text-align: center;
+    }
+    .sec-3-col1-cont h3{
+        font-size: 26px !important;
+    }
+    .sec-3-col1-cont p{
+        font-size: 15px !important;
+    }
+    .sec-3-col1-cont button{
+        font-size: 15px !important;
+    }
+
+
+    .sec-3-col2 .review-card{
+        width: 380px !important;
+        margin: 10px !important;
+    }
+    .sec-3-col2 .review-card .rc-header .name h5{
+        font-size: 18px !important;
+    }
+    .sec-3-col2 .review-card .rc-header .name h4{
+        font-size: 18px !important;
+    }
+    .sec-3-col2 .review-card .content p{
+        font-size: 16px !important;
+        text-align: center;
+    }
+
+
+    .sec-3 .sec-3-row .sec-3-col3{
+        position: static !important;
+        justify-content: center;
+    }
+    .sec-3 .sec-3-row .sec-3-col3 h3{
+        writing-mode: unset !important;
+        padding: 10px !important;
+        position: static !important;
+        letter-spacing: 0;
+        word-spacing: 0;
+        font-size: 28px;
+    }
+
+    .sec-4 .sec-4-row{
+        padding: 30px 0px 0px 0px;
+    }
+    .sec-4 .sec-4-row .sec-4-col1 .sec-4-head1{
+        position: unset !important;
+        letter-spacing: 0;
+        word-spacing: 0;
+        padding: 5px !important;
+        border-top-right-radius: 0px !important;
+        border-bottom-right-radius: 0px !important;
+    }
+    .sec-4 .sec-4-row .sec-4-col1 .sec-4-head1 h3{
+        writing-mode: unset !important;
+        text-orientation: unset !important;
+        padding: 5px !important;
+    }
+    
+
+    .sec-5{
+        /* border: 1px solid red; */
+        position: relative;
+    }
+    .sec-5 .sec-5-row{
+        flex-direction: column-reverse;
+        padding: 20px 0px;
+    }
+    .sec-5-col1-cont{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .sec-5 .sec-5-row .sec-5-col3{
+        justify-content: center !important;
+    }
+    .sec-5 .sec-5-row .sec-5-col3 h3{
+        writing-mode: unset !important;
+        text-orientation: unset !important;
+        padding: 5px !important;
+        letter-spacing: 0;
+        word-spacing: 0;
+        position: unset !important;
+        border-top-left-radius: 0px !important;
+        border-bottom-left-radius: 0px !important;
+    }
+    .sec-5-col1-cont p{
+        text-align: center;
+    }
+
+}
+@media only screen and (max-width:1100px){
+    .navbar-items a{
+        font-size: 14px !important;
+    }
+    .nav-sec-3 button{
+        font-size: 14px;
+    }
+    .sec-3-para{
+        text-align: center;
+    }
+    .para1{
+        font-size: 13px;
+    }
+    .para2{
+        font-size: 13px;
+    }
+
+
+    .footer-logo{
+        width: 180px !important;
+    }
+}
+
+@media only screen and (max-width:991px){
+    .nav-sec-3{
+        width: 100%;
+    }
+
+
+    .footer-logo{
+        width: 180px !important;
+    }
+    .footer-sec3-col2{
+        text-align: center;
+    }
+    .footer-sec3-col2 p{
+        margin: 0px !important;
+    }
+}
+@media only screen and (max-width:942px){
+    .sec-5-col1-cont {
+        padding: 50px 0px 0px 0px!important;
+    }
+}
+@media only screen and (max-width:900px){
+    .sec-2 .sec-2-row .sec-2-col1 .sec-2-head1 h3{
+        font-size: 25px;
+    }
+
+
+    .sec-2-col2 .sec-2-cards .sec-2-card{
+        width: 100% !important;
+    }
+    .sec-2-col2 .sec-2-cards .sec-2-card .card-detail h4{
+        font-size: 20px !important;
+        text-align: center;
+    }
+    .sec-2-col2 .sec-2-cards .sec-2-card .card-logo{
+        width: 90px !important;
+        height: 90px !important;
+    }
+    .sec-2-col3 .sec-2-cont h1{
+        font-size: 32px;
+    }
+
+
+    .sec-2-col3{
+        padding: 20px 40px;
+    }
+    .sec-2-col3 .sec-2-cont{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center !important;
+    }
+    .sec-2-col3 .sec-2-cont button{
+        width: 120px;
+        font-size: 19px !important;
+    }
+}
+@media only screen and (max-width:852px){
+    .sec-3-col1-cont{
+        padding: 40px 10px 30px 10px !important;
+    }
+}
+@media only screen and (max-width:830px){
+    .content-header h1{
+     font-size: 32px !important;
+    }
+    .cards{
+    position: relative;
+    bottom: 0px !important;    
+    }
+    .sec-4 .sec-4-row .sec-4-col2 .sec-4-content .content-header{
+        margin: 50px 0px 20px 0px !important;
+    }
+
+
+    .sec-4 .sec-4-row .sec-4-col2 .sec-4-content .content-details{
+        margin: 0px !important;
+    }
+}
+@media only screen and (max-width:818px){
+    .sec-3-col2{
+        padding: 30px 0px 30px 0px !important;
+    }
+    .sec-3-col2 .review-card{
+        width: 100% !important;
+        margin: 10px !important;
+    }
+    .sec-3-col2 .review-card .rc-header .name h5{
+        font-size: 20px !important;
+    }
+    .sec-3-col2 .review-card .rc-header .name h4{
+        font-size: 20px !important;
+    }
+    .sec-3-col2 .review-card .content p{
+        font-size: 18px !important;
+        text-align: center;
+    }
+    .down{
+        top: 0px !important;
+    }
+    .up{
+        top: 0px !important;
+
+    }
+}
+@media only screen and (max-width:768px){
+    .sec-6-col1 .sec6-head1 h1{
+        font-size: 30px !important;
+    }
+    .sec-6-col1 .sec6-head2 h1{
+        font-size: 30px !important;
+    }
+    .contact-purpose label{
+        font-size: 16px !important;
+    }
+    .contact-email label{
+        font-size: 16px !important;
+
+    }
+}
+
+@media only screen and (max-width:756px){
+
+}
+@media only screen and (max-width:632px){
+    .sec-3-col1-cont{
+        padding: 50px 10px 30px 10px !important;
+    }
+    .sec-3-col2{
+        padding: 30px 0px 0px 0px !important;
+    }
+
+}
+@media only screen and (max-width:620px){
+
+
+
+
+
+    .sec-6-col2{
+        /* border: 1px solid red; */
+        justify-content: flex-start !important;
+    }
+    .sec-6-col1 .sec6-head1 h1{
+        font-size: 26px !important;
+    }
+    .sec-6-col1 .sec6-head2 h1{
+        font-size: 26px !important;
+    }
+    .sec-6-contact{
+        flex-direction: column;
+        /* border: 1px solid yellow; */
+        width: 100%;
+    }
+    .contact-purpose label{
+        font-size: 15px !important;
+    }
+    .contact-email{
+        margin: 10px 0px !important;
+    }
+    .contact-email label{
+        font-size: 15px !important;
+    }
+    .contact-button{
+        margin: 10px 0px !important;
+    }
+    .contact-button button{
+        width: 100%;
+        
+    }
+}
+
+@media only screen and (max-width:552px){
+    .sec-1-head{
+        font-size: 25px !important;
+    }
+    .sec-3-col1-cont h3{
+        font-size: 19px !important;
+    }
+    .sec-3-col1-cont p{
+        font-size: 14px !important;
+    }
+    .sec-3-col1-cont button{
+        font-size: 14px !important;
+    }
+}
+@media only screen and (max-width:548px){
+  
+}
+@media only screen and (max-width:520px){
+    .sec-1-head{
+        width: 100%;
+        padding-left: 0px !important;
+    }
+    .sec-1-para{
+        width: 100%;
+        font-size: 20px;
+        padding-left: 0px !important;
+        margin-right: 0px !important;
+    }
+    .btn-sec{
+        padding-left: 0px !important;
+        width: 100%;
+        margin-right: 0px;
+    }
+    .sec-1-btn1{
+        font-size: 15px !important;
+        margin-left: 0px !important;
+    }
+    .sec-1-btn2{
+        font-size: 15px !important;
+        margin-left: 5px !important;
+    }
+    .contact-form{
+        width: 100% !important;
+    }
+    .contact-form::before{
+        transform: rotate(0deg) !important;
+    }
+}
+@media only screen and (max-width:493px){
+
+}
+@media only screen and (max-width:465px){
+    .sec-2-col3 .sec-2-cont .content h1{
+        font-size: 30px !important;
+        text-align: center !important;
+    }
+    .sec-2-col3 .sec-2-cont .content p{
+        font-size: 15px !important;
+        text-align: center !important;
+    }
+
+
+
+
+    .sec-3-col1-cont h3{
+        font-size: 18px !important;
+    }
+    .sec-3-col1-cont p{
+        font-size: 14px !important;
+    }
+    .sec-3-col1-cont button{
+        font-size: 14px !important;
+    }
+    .sec-3-col2 .review-card .rc-header .name h5{
+        font-size: 18px !important;
+    }
+    .sec-3-col2 .review-card .rc-header .name h4{
+        font-size: 18px !important;
+    }
+    .sec-3-col2 .review-card .content p{
+        font-size: 14px !important;
+    }
+}
+@media only screen and (max-width:442px){
+}
+@media only screen and (max-width:434px){
+  
+}
+@media only screen and (max-width:414px){
+}
+
+@media only screen and (max-width:394px){
+}
+@media only screen and (max-width:370px){
+    .sec-1-head{
+        font-size: 22px !important;
+    }
+    .reviewer-detail h3{
+        font-size: 22px !important;
+    }
+}
+@media only screen and (max-width:364px){
+    .logo{
+        width: 160px !important;
+        margin: 0px 0px 0px 0px !important;
+    }
+    .details-cards .detail-card1 {
+        width: 200px !important;
+        height: 200px !important;
+        margin: 30px 10px !important;
+    }
+    .details-cards .detail-card2 {
+        width: 200px !important;
+        height: 200px !important;
+        margin: 30px 10px !important;
+    }
+    .details-cards .detail-card3 {
+        width: 200px !important;
+        height: 200px !important;
+        margin: 30px 10px !important;
+    }
+    .details-cards .detail-card4 {
+        width: 200px !important;
+        height: 200px !important;
+        margin: 30px 10px !important;
+    }
+    .headsec1 h5 {
+        padding: 20px !important;
+        font-size: 1px !important;
+    }
+    .headsec2 h5 {
+    }
+    .headsec3 h5 {
+    }
+    .headsec4 h5 {
+            /* border: 1px solid red; */
+            padding: 20px !important;
+            font-size: 14px !important;
+    }
+}
+@media only screen and (max-width:356px){
+}
+@media only screen and (max-width:356px){
+}
+@media only screen and (max-width:316px){
+}
+@media only screen and (max-width:292px){
+    
+}
+
+
+
+
+
+
+
+
